@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👋 Hello, I'm Casey Stamper!
+
+## About Me
+I'm a software engineer passionate about team building, cloud computing, and SDLC best practices.
+
+- 🔭 I’m currently working as team lead at Bandwidth Inc.
+- 📫 How to reach me: cstamper6@gmail.com
+
+## Languages and Tools
+Here are some of the technologies and tools I'm proficient in:
+
+- Programming Languages: Java, TypeScript
+- Frameworks: Spring, React, Express
+- Databases: MariaDB
+- Tools: AWS
 
 <!--
-**stampercasey/stampercasey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+Check out some of my projects:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [Project 1 Name](Project 1 Link)
+- [Project 2 Name](Project 2 Link)
+- [Project 3 Name](Project 3 Link)
 -->
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/casey-stamper/)

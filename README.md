@@ -3,16 +3,16 @@
 ## About Me
 I'm a software engineer passionate about team building, cloud computing, and SDLC best practices.
 
-- 🔭 I’m currently working as team lead at Bandwidth Inc.
+- 🔭 I’m currently working as team lead at [Bandwidth](https://www.bandwidth.com/)
+- 📚 View my certifications on [Credly](https://www.credly.com/users/casey-stamper/badges)
 - 📫 How to reach me: cstamper6@gmail.com
 
 ## Languages and Tools
 Here are some of the technologies and tools I'm proficient in:
 
 - Programming Languages: Java, TypeScript
-- Frameworks: Spring, React, Express
-- Databases: MariaDB
-- Tools: AWS
+- Frameworks: Spring, React, Express, Scrum/Agile
+- Tools & Technologies: AWS, Docker, Confluence/Jira
 
 <!--
 ## Projects
